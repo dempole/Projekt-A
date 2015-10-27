@@ -1,0 +1,9 @@
+*--- 1.1 ---*
+Es wird an einer möglichkeit gearbeitet mehrere Quizze von einer Startseite anzubieten
+	-Per Pulldown Menü erscheint eine Auswahl von verschiedenen Kategorien.
+		-Der nutzer kann sich dann eine KLategorie auswählen und dann das Quizz in dieser durchführen.
+	
+*--- 1.0 ---*
+Es wird eine möglichkeit den Status des Quizzes zu speichern 	(Angemeldet-> in der DB / sonst -> Cookies)
+Registerformular wird benötigt 					(Enge zusammenarbeit mit der DB)
+Loginformular wird benötigt					(Enge zusammenarbeit mit der DB)

@@ -1,3 +1,0 @@
-Es wird eine möglichkeit den Status des Quizzes zu speichern 	(Angemeldet-> in der DB / sonst -> Cookies)
-Registerformular wird benötigt 					(Enge zusammenarbeit mit der DB)
-Loginformular wird benötigt					(Enge zusammenarbeit mit der DB)
