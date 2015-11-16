@@ -1,0 +1,7 @@
+register.php wurde erstellt und mit Kommentaren hochgeladen
+databaseconnect.php wurde erstellt und mit Kommentaren hochgeladen
+login.php wurde erstellt und mit Kommentaren hochgeladen
+logout.php wurde erstellt und mit Kommentaren hochgeladen
+quiz.php wurde erstellt und mit Kommentaren hochgeladen
+
+Register und LogIn Script sind vorhanden und brauchen nur noch eine zugehörige Datenbank(um zu funktionieren) und eine Einbindung in den HTML code(um abfragen zu bearbeiten).

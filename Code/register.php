@@ -10,7 +10,7 @@ if(isset($_POST['btn-signup']))																												//Wird ausgeführ wen
 {
 	$uname = mysql_real_escape_string($_POST['uname']);																						//Benutzername
 	$email = mysql_real_escape_string($_POST['email']);																						//Email
-	$upass = md5(mysql_real_escape_string($_POST['pass']));																					//PAsswort
+	$upass = md5(mysql_real_escape_string($_POST['pass']));																					//Passwort
 	
 	if(mysql_query("INSERT INTO users(username,email,password) VALUES('$uname','$email','$upass')"))										//Übermittlung der Nutzerdaten an die Datenbank, {if} wenn es keine Probleme gab, {else} wenn es Probleme gab.
 	{

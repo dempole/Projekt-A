@@ -1,3 +1,11 @@
+*--- 1.2 ---*
+Die einfachste Möglichkeit sicherzugehen das Nutzernamen und Quizscore in einem Leaderboard
+gesichert werden können stellt die Registrierung dar.
+	Es wurde an einem einfach Registrierungs/Login-Formular gearbeitet
+		-Email, Nutzername und Passwort werden in einer Datenbank gesichert
+		-Beim LogIn werden Email und Passwort mit der Datenbank abgeglichen
+		-Nutzername wird dazu dienen einen persönlichen Namen im Leaderboard zu haben(Zukunft)
+
 *--- 1.1 ---*
 Es wird an einer möglichkeit gearbeitet mehrere Quizze von einer Startseite anzubieten
 	-Per Pulldown Menü erscheint eine Auswahl von verschiedenen Kategorien.
