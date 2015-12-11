@@ -15,3 +15,18 @@ Es wird an einer möglichkeit gearbeitet mehrere Quizze von einer Startseite anzu
 Es wird eine möglichkeit den Status des Quizzes zu speichern 	(Angemeldet-> in der DB / sonst -> Cookies)
 Registerformular wird benötigt 					(Enge zusammenarbeit mit der DB)
 Loginformular wird benötigt					(Enge zusammenarbeit mit der DB)
+
+=== Feedback Alpers, Dez 11 ==
+
+Passable Dokumentation, allerdings fehlen hier noch die Hinweise auf Entscheidungen, wegen denen das Projekt geändert wurde.
+Aber vielleicht gab es da ja auch nichts.
+
+Allerdings fällt mir auf, dass Sie die übrigen Mitglieder nie ins Repository eingeladen haben.
+Das ist ein Problem, denn für das Projekt ist es eine Bedingung, dass Sie mit wenigstens einem Kommilitonen/einer Kommilitonin begonnen haben.
+
+Dazu kommt, dass der Code im Grunde fast ausschließlich aus der Anbindung der DB und einigen
+Transaktionen besteht. Wie in der Aufgabenstellung beschrieben soll die Anwendung mehr sein als ein reines Abfragen und Eintragen von
+Datensätzen. Vielmehr soll es sich um eine interaktive Webanwendung handeln. Doch selbst wenn wir das außer acht lassen ist
+der Umfang des Programms im Moment noch deutlich zu gering für ein Projekt.
+
+Mein Vorschlag wäre deshalb, dass Sie sich von anderen Projekten inspirieren lassen; die Liste mit den Repositories vom Semesterbeginn ist ja (unter Aufgabe 2) noch online.
