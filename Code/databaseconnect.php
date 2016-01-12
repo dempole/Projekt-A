@@ -8,4 +8,15 @@ if(!mysql_select_db("user"))																					//Wenn die Datenbank nicht gefu
 	die('Kann Datenbank nicht finden --> '.mysql_error());
 }
 
+
+DEFINE ('DB_USER', 'to_be_made');
+DEFINE ('DB_PASSWORD', 'to_be_made');
+DEFINE ('DB_HOST', 'localhost');
+DEFINE ('DB_NAME', 'quizdb'); 
+
+@ $dbc = new mysqli(DB_HOST, DB_USER, DB_PASSWORD, DB_NAME);
+if (mysqli_connect_error()){
+echo "Konnte nicht zur MySQL Datenbank verbinden. Später noch einmal versuchen";
+exit();
+}
 ?>
