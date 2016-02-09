@@ -46,3 +46,9 @@ Datensätzen. Vielmehr soll es sich um eine interaktive Webanwendung handeln. Doc
 der Umfang des Programms im Moment noch deutlich zu gering für ein Projekt.
 
 Mein Vorschlag wäre deshalb, dass Sie sich von anderen Projekten inspirieren lassen; die Liste mit den Repositories vom Semesterbeginn ist ja (unter Aufgabe 2) noch online.
+
+=== Feedback Alpers, Feb 9 ===
+
+Ich werde Ihre Arbeit als ausreichend im Sinne des Projekts anerkennen. Zwar haben Sie nur einige grundlegende Funktionalitäten implementiert, aber Sie hatten den Nachteil, das Projekt letztlich alleine beenden zu müssen und haben dennoch, wenn auch nur in wenigen Fällen genau das umgesetzt, was Ihre Aufgabe war.
+
+=== Feedback Alpers, Ende ===

@@ -37,3 +37,11 @@ include('header.html');
 <?php 
 include('footer.html') 
 ?>
+
+<!--
+=== Feedback Alpers, feb 9 ===
+
+Leider ist das HTML4.01.
+
+=== Feedback Alpers, Ende ===
+-->
